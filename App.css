@@ -1,0 +1,7 @@
+.App{
+
+
+  scroll-behavior: smooth;
+  overflow-x: hidden;
+  /* overflow-y:scroll; */
+}
